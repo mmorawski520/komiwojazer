@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">komiwojazer</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="calculate">calculate</string>
 </resources>
