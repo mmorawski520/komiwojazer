@@ -4,4 +4,6 @@
     <string name="todo">TODO</string>
     <string name="todo2">TODO</string>
     <string name="calculate">calculate</string>
+    <string name="name">Name</string>
+    <string name="add">+</string>
 </resources>
